@@ -34,7 +34,7 @@ const Projects = () => {
               <h3 className="text-2xl font-bold">Compile Hub</h3>
             </div>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
-            I developed an online MERN stack compiler that supports five popular programming languages: C, C++, Java, JavaScript, and Python. It features an
+            I developed an online MERN stack compiler that supports five popular programming languages: C, C++, Java, JavaScript, and Python. It features an 
               <span className="text-textGreen">Optimize Code</span> button powered by AI for enhancing code efficiency.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
