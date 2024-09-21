@@ -34,7 +34,7 @@ const Projects = () => {
               <h3 className="text-2xl font-bold">Compile Hub</h3>
             </div>
             <p className="bg-[#112240] text-sm md:text-base p-2 md:p-6 rounded-md">
-            I developed an online MERN stack compiler that supports five popular programming languages: C, C++, Java, JavaScript, and Python. It features an {" "}
+            I developed an online MERN stack compiler that supports five popular programming languages: C, C++, Java, JavaScript, and Python. It features an
               <span className="text-textGreen">Optimize Code</span> button powered by AI for enhancing code efficiency.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
@@ -88,7 +88,7 @@ const Projects = () => {
               <h3 className="text-2xl font-bold">Query Minds</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md xl:-mr-16">
-            Developed an AI-powered chatbot using the MERN stack, capable of solving any human queries through the <span className="text-textGreen">Gemini API</span> and generating code blocks within the chat{" "}To monetize user, I integrated the <span className="text-textGreen">Razorpay</span> payment gateway, prompting users for payment after <span className="text-textGreen">20</span> queries.
+            Developed an AI-powered chatbot using the MERN stack, capable of solving any human queries through the <span className="text-textGreen">Gemini API</span> and generating code blocks within the chat To monetize user, I integrated the <span className="text-textGreen">Razorpay</span> payment gateway, prompting users for payment after <span className="text-textGreen">20</span> queries.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
               <li>MERN-Stack</li>
@@ -140,7 +140,7 @@ const Projects = () => {
               <h3 className="text-2xl font-bold">Git Shield</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md">
-            I created a Gitignore generator using the MERN stack that produces over <span className="text-textGreen">550+</span> .gitignore files, helping streamline workflows for the developer community.{" "}Designed with a focus on delivering the best user experience, it simplifies the process of generating <span className="text-textGreen">.gitignore</span> files effortlessly.
+            I created a Gitignore generator using the MERN stack that produces over <span className="text-textGreen">550+</span> .gitignore files, helping streamline workflows for the developer community. Designed with a focus on delivering the best user experience, it simplifies the process of generating <span className="text-textGreen">.gitignore</span> files effortlessly.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
               <li>MERN-Stack</li>
