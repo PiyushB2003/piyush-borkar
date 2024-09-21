@@ -236,7 +236,7 @@ const Navbar = () => {
                     </motion.li>
                   </Link>
                 </ul>
-                <a href="/assets/noor_resume.pdf" target="_blank">
+                <a href="/assets/Piyush_Borkar_Resume.pdf" target="_blank">
                   <motion.button
                     initial={{ opacity: 0 }}
                     animate={{ opacity: 1 }}
@@ -251,7 +251,7 @@ const Navbar = () => {
                     initial={{ y: 20, opacity: 0 }}
                     animate={{ y: 0, opacity: 1 }}
                     transition={{ delay: 0.8, ease: "easeIn" }}
-                    href="https://github.com/noorjsdivs"
+                    href="https://github.com/PiyushB2003"
                     target="_blank"
                   >
                     <span className="w-10 h-10 text-xl bg-bodyColor border-[1px] border-zinc-700 hover:border-textGreen text-zinc-200 rounded-full inline-flex items-center justify-center hover:text-textGreen cursor-pointer hover:-translate-y-2 transition-all duration-300">
@@ -261,19 +261,8 @@ const Navbar = () => {
                   <motion.a
                     initial={{ y: 20, opacity: 0 }}
                     animate={{ y: 0, opacity: 1 }}
-                    transition={{ delay: 0.85, ease: "easeIn" }}
-                    href="https://www.youtube.com/channel/UChkOsij0dhgft0GhHRauOAA"
-                    target="_blank"
-                  >
-                    <span className="w-10 h-10 text-xl bg-bodyColor border-[1px] border-zinc-700 hover:border-textGreen text-zinc-200 rounded-full inline-flex items-center justify-center hover:text-textGreen cursor-pointer hover:-translate-y-2 transition-all duration-300">
-                      <SlSocialYoutube />
-                    </span>
-                  </motion.a>
-                  <motion.a
-                    initial={{ y: 20, opacity: 0 }}
-                    animate={{ y: 0, opacity: 1 }}
                     transition={{ delay: 0.9, ease: "easeIn" }}
-                    href="https://www.linkedin.com/in/noor-mohammad-ab2245193/"
+                    href="https://www.linkedin.com/in/piyushborkar/"
                     target="_blank"
                   >
                     <span className="w-10 h-10 text-xl bg-bodyColor border-[1px] border-zinc-700 hover:border-textGreen text-zinc-200 rounded-full inline-flex items-center justify-center hover:text-textGreen cursor-pointer hover:-translate-y-2 transition-all duration-300">
@@ -283,23 +272,23 @@ const Navbar = () => {
                   <motion.a
                     initial={{ y: 20, opacity: 0 }}
                     animate={{ y: 0, opacity: 1 }}
-                    transition={{ delay: 0.95, ease: "easeIn" }}
-                    href="https://www.facebook.com/Noorlalu143/"
+                    transition={{ delay: 1, ease: "easeIn" }}
+                    href="https://www.instagram.com/_piyush_borkar_"
                     target="_blank"
                   >
                     <span className="w-10 h-10 text-xl bg-bodyColor border-[1px] border-zinc-700 hover:border-textGreen text-zinc-200 rounded-full inline-flex items-center justify-center hover:text-textGreen cursor-pointer hover:-translate-y-2 transition-all duration-300">
-                      <SlSocialFacebook />
+                      <SlSocialInstagram />
                     </span>
                   </motion.a>
                   <motion.a
                     initial={{ y: 20, opacity: 0 }}
                     animate={{ y: 0, opacity: 1 }}
-                    transition={{ delay: 1, ease: "easeIn" }}
-                    href="https://www.instagram.com/simplenoor143/"
+                    transition={{ delay: 0.95, ease: "easeIn" }}
+                    href="https://www.facebook.com/piyush.borkar.9847/"
                     target="_blank"
                   >
                     <span className="w-10 h-10 text-xl bg-bodyColor border-[1px] border-zinc-700 hover:border-textGreen text-zinc-200 rounded-full inline-flex items-center justify-center hover:text-textGreen cursor-pointer hover:-translate-y-2 transition-all duration-300">
-                      <SlSocialInstagram />
+                      <SlSocialFacebook />
                     </span>
                   </motion.a>
                 </div>
@@ -312,7 +301,7 @@ const Navbar = () => {
                 className="text-sm w-72 tracking-widest text-textGreen text-center mt-4"
                 href="mailto:noor.jsdivs@gmail.com"
               >
-                <p>reactbd@proton.me</p>
+                <p>mailto@piyush.me</p>
               </motion.a>
             </motion.div>
           </div>
