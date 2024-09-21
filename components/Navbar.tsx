@@ -306,7 +306,7 @@ const Navbar = () => {
             </motion.div>
           </div>
         )}
-        {/* ============== Small Icon End here ============= */}
+        {/* ============== Small Icon End here! ============= */}
 
         {/* ============ ListItem End here ========== */}
       </div>
