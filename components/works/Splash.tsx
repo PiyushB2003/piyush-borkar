@@ -21,25 +21,23 @@ const Splash = () => {
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora
-          distinctio doloribus quas ex ea sed.
+          Focusing on building and enhancing Shopify applications using React,
+          Node.js, and MySQL.
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio
-          sit adipisci ad exercitationem a amet cum porro recusandae eveniet,
-          accusantium animi tenetur rerum, culpa quibusdam! Consectetur
-          laboriosam hic harum modi.
+          I have successfully developed 3+ Shopify apps, leveraging React for
+          dynamic front-end interfaces, Node.js for scalable back-end solutions,
+          and MySQL for efficient data management.
         </li>
         <li className="text-base flex gap-2 text-textDark">
           <span className="text-textGreen mt-1">
             <TiArrowForward />
           </span>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam et
-          corporis necessitatibus? Pariatur voluptas ad, at et hic deserunt
-          sequi?
+          Utilize Liquid templates to customize Shopify themes and employ the
+          Polaris UI library to create consistent, userfriendly interfaces.
         </li>
       </ul>
     </motion.div>
