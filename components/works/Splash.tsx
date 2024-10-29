@@ -11,7 +11,7 @@ const Splash = () => {
     >
       <h3 className="flex gap-1 font-medium text-xl font-titleFont">
         Full-Stack Developer
-        <span className="text-textGreen tracking-wide">@Readical Global</span>
+        <span className="text-textGreen tracking-wide">@Radical Global</span>
       </h3>
       <p className="text-sm mt-1 font-medium text-textDark">
         Oct 2024 - Present
